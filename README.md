@@ -2,6 +2,20 @@
 
 ## 💰 Loan Default & Financial Risk Analysis Dashboard
 
+<p align="center">
+  <img src="Dashboard Screenshots/dashboard_page_1.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="Dashboard Screenshots/dashboard_page_2.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="Dashboard Screenshots/dashboard_page_3.png" width="100%">
+</p>
+
+---
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-yellow?style=for-the-badge\&logo=powerbi)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Financial%20Risk-green?style=for-the-badge)
