@@ -2,19 +2,7 @@
 
 ## 💰 Loan Default & Financial Risk Analysis Dashboard
 
-<p align="center">
-  <img src="Dashboard Screenshots/dashboard_page_1.png" width="80%">
-</p>
 
-<p align="center">
-  <img src="Dashboard Screenshots/dashboard_page_2.png" width="80%">
-</p>
-
-<p align="center">
-  <img src="Dashboard Screenshots/dashboard_page_3.png" width="80%">
-</p>
-
----
 
 ## 📌 Project Overview
 
